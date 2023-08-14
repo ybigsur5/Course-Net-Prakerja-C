@@ -15,7 +15,7 @@ int main() {
     scanf("%s", nim);
 
     printf("Enter full name     : ");
-    scanf(" %[^\n]s", fullName);  // Menggunakan " %[^\n]s" untuk mengambil input string dengan spasi
+    scanf(" %[^\n]s", fullName);
 
     printf("Enter your age      : ");
     scanf("%d", &age);
