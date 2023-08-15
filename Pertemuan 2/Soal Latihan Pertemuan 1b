@@ -1,0 +1,14 @@
+Buatlah sebuah program untuk menginput kata. Setelah input, program akan menampilkan code dari aplikasi beserta inputan user. 
+
+---------------------------------------
+Please input : Course-Net
+
+#include <stdio.h>
+int main ()
+{
+	char kata[] = "Course-Net";
+	printf("%s\n", kata);
+	get char();
+	return 0;
+}
+---------------------------------------
