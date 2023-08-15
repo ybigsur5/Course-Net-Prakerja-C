@@ -27,10 +27,10 @@ int main() {
     printf("-----------------------------------");
     printf("\nBelow this, they are your data :\n");
     
-    printf("\n%-20s: %s\n", "NIM", nim);
-    printf("%-20s: %s\n", "Full Name", fullName);
-    printf("%-20s: %d\n", "Age", age);
-    printf("%-20s: %.2f\n", "Target GPA", targetGPA);;
+    printf("\n%-25s: %s\n", "NIM", nim);
+    printf("%-25s: %s\n", "Full Name", fullName);
+    printf("%-25s: %d\n", "Age", age);
+    printf("%-25s: %.2f\n", "Target GPA", targetGPA);;
     
     return 0;
 }
