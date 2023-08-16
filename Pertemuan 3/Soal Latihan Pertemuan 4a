@@ -1,0 +1,9 @@
+Buatlah sebuah program untuk menerima input kata, kemudian menampilkan kembali dengan ketentuan:
+1. Huruf di urutan ganjil ditampilkan dalam huruf kapital
+2. Huruf di urutan genap ditampilkan dalam huruf kecil
+
+--------------------------------
+Odd Upper and Even Lower
+---------------------------------
+Input Words : coursenet indonesia
+Your Words : CoUrSeNeT InDoNeSiA
